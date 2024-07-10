@@ -1,0 +1,16 @@
+br\com\projetoApiCWI\runners\Acceptance.class
+br\com\projetoApiCWI\runners\AllTests.class
+br\com\projetoApiCWI\suites\Acceptance.class
+br\com\projetoApiCWI\tests\base\tests\BaseTest.class
+br\com\projetoApiCWI\tests\ping\tests\GetPingTest.class
+br\com\projetoApiCWI\suites\AllTests.class
+br\com\projetoApiCWI\tests\auth\tests\PostAuthTest.class
+br\com\projetoApiCWI\tests\booking\tests\PutBookingTest.class
+br\com\projetoApiCWI\utils\Utils.class
+br\com\projetoApiCWI\tests\booking\tests\GetBookingTest.class
+br\com\projetoApiCWI\runners\Contract.class
+br\com\projetoApiCWI\tests\booking\requests\GetBookingRequest.class
+br\com\projetoApiCWI\tests\auth\requests\PostAuthRequest.class
+br\com\projetoApiCWI\tests\booking\requests\PutBookingRequest.class
+br\com\projetoApiCWI\suites\Contract.class
+br\com\projetoApiCWI\tests\base\requests\BaseRequest.class

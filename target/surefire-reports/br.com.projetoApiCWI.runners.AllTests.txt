@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.com.projetoApiCWI.runners.AllTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.069 s <<< FAILURE! - in br.com.projetoApiCWI.runners.AllTests
+br.com.projetoApiCWI.runners.AllTests.initializationError  Time elapsed: 0.447 s  <<< ERROR!
+org.junit.runner.manipulation.NoTestsRemainException
+
